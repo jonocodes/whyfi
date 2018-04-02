@@ -401,8 +401,8 @@ Note: Even with these disasters...
 
 * [The people who perform best with funds are:](http://www.businessinsider.com/forgetful-investors-performed-best-2014-9)
 
-    2. people who forgot about their investments<!-- .element: class="fragment" -->
-    1. people who are dead<!-- .element: class="fragment" -->
+    * people who forgot about their investments<!-- .element: class="fragment" -->
+    * people who are dead<!-- .element: class="fragment" -->
 
 ---
 
