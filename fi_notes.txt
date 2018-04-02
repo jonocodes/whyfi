@@ -1,31 +1,10 @@
 
-investing
-	
-	Jono's crude view of investment risks vs rewards
-		
-		here is a terrible graphic I made
-	
-		Banks / credit unions = %0.10
-		CDs / Money market = %0.20
-		Government bonds = %2-%3
-		Junk bonds = %6
-		(Interest rates) = %1 - %10
-		TDFs / Robo advisors
-		Index funds
-		Real estate
-		Individual stocks
-		Collectables
-		Crytocurrency = -%50 - %1000
-
-
-		notes
 			banks. fdic protection
 			robo advisors. betterment and wealthfront. does a risk assesment, puts the money in, rebalances
+
 			mutual funds ... "the amount of fund managers that can outperform the market is statistically insignificant" - jl collins
+
 			real estate. causes debt, work			
+
 			individual stocks.	very time consuming and rarely outperforms the market
-			
-			all the way at the bottom could be gold/guns if you think capitolism is going to collapse
-		
-		
 	

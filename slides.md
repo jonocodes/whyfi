@@ -163,11 +163,11 @@ Average phone bill = $73
 
 Use a cheap no-contract MVNO instead
 
-Pay <i class="fas fa-dollar-sign"></i>0 to <i class="fas fa-dollar-sign"></i>30 per month
+Pay $0 to $30 per month
 
 &nbsp;
 
-Yearly savings (<i class="fas fa-dollar-sign"></i>25 vs <i class="fas fa-dollar-sign"></i>60) = ~$400 / per line
+Yearly savings ($25 vs $60) = ~$400 / per line
 
 ---
 
@@ -179,7 +179,7 @@ Yearly savings (<i class="fas fa-dollar-sign"></i>25 vs <i class="fas fa-dollar-
 
 &nbsp;
 
-On average Americans spend <i class="fas fa-dollar-sign"></i>1000 to <i class="fas fa-dollar-sign"></i>3000 a year on eating out for lunch
+On average Americans spend $1000 to $3000 a year on eating out for lunch
 
 &nbsp;
 
@@ -336,10 +336,6 @@ Note: mention bank gains loose money
 ---
 
 <!-- .side: data-background="http://i.giphy.com/90F8aUepslB84.gif" -->
-
-Woah
-
----
 
 ## Index Investing Principals
 
