@@ -1,0 +1,316 @@
+
+FI
+
+	"work is better
+	when you dont need the money"
+	-MMM, https://vimeo.com/183016901
+
+	not working a job because you have to
+	
+	only working if you want to
+	
+	(early retirement)
+	
+	
+
+(Word cloud financial Independence) ?
+
+
+
+basics
+
+ ‎ "spend less then you earn
+  invest the surplus
+  avoid debt" - jl collins
+ 
+ 
+ 
+simple math behind early retirement
+
+	your time to reach retirement depends on one factor:
+
+	Your savings rate, as a percentage of your take-home pay
+
+	http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/
+ 
+
+4% rule
+	if your yearly cost is 40k, then you must have 1M saved
+	your savings will most likely continue to grow large after this
+
+
+
+
+details
+	here are some of the high level concepts. you can do any or all of these and take them to any depth.
+
+
+getting out of debt
+
+* pay highest interest loans first
+* etc...
+* see dave ramsey for more info
+
+frugality
+	
+	mvno phone
+	
+		phone service can cost $0-$30 / month
+		
+		yearly savings = ~$400 / per phone
+		
+	eat out less
+	
+		on average americans spend $1000 to $3000 a year on eating out for lunch
+		
+		bring your own lunch, savings = ~$700
+	
+	buy a gently used car
+	
+		biggest drop in depreciation in the first 2 years
+		
+		yearly savings of buying a 2 year old car = ~$700 ??
+		
+	travel by bike instead of car
+	
+		average yearly savings = ~$10k
+	
+		Bikes are virtually free
+		require no insurance, registration, license, parking spaces
+		easy to own
+		saves time and money for not going to the gym
+		reduces medical spending
+		
+		bonus: not only is biking safer then driving, it increases your lifespan, https://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/
+		
+		http://www.mrmoneymustache.com/2011/04/18/get-rich-with-bikes/
+
+
+	general budgeting
+		track expenses
+			spread sheet, mint, personal capital, ynab
+				I dont endorse or use any of these because they are creapy/unsafe
+		couponing
+			expreme couponing
+				https://youtu.be/BtPtZDpVMnI?t=2m10s
+
+	
+investing
+	
+	Jono's crude view of investment risks vs rewards
+		
+		here is a terrible graphic I made
+	
+		Banks / credit unions = %0.10
+		CDs / Money market = %0.20
+		Government bonds = %2-%3
+		Junk bonds = %6
+		(Interest rates) = %1 - %10
+		TDFs / Robo advisors
+		Index funds
+		Real estate
+		Individual stocks
+		Collectables
+		Crytocurrency = -%50 - %1000
+
+
+		notes
+			banks. fdic protection
+			robo advisors. betterment and wealthfront. does a risk assesment, puts the money in, rebalances
+			mutual funds ... "the amount of fund managers that can outperform the market is statistically insignificant" - jl collins
+			real estate. causes debt, work			
+			individual stocks.	very time consuming and rarely outperforms the market
+			
+			all the way at the bottom could be gold/guns if you think capitolism is going to collapse
+		
+		
+	
+	risk tolerance
+	
+		the stock market can be volatile. you can loose money one day and gain the next. if any losses keep you up at night the stock market is not for you.
+		
+		stocks v bonds image
+		
+
+	keep an emergency fund
+	
+		0 to 9 months of your living expenses in liquid cash (bank account) depending on your tolerace
+
+‎
+	warren buffet told wife... 90% index funds
+‎
+	
+
+	Low fee, total stock market, index fund
+	
+		An index mutual fund is said to provide broad market exposure, low operating expenses and low portfolio turnover.
+		
+		Total stock market means it tracks all publicly traded companies. weighted by the market. when companies get loose value or get too small, they get filtered out of the index.
+		
+		low fee 
+		
+			mutual funds often have 10x the fees
+				
+			index funds = %0.01 to %0.1
+			managed mutual funds = %0.5 to %1
+			
+			on investments over a long period this can be a LOT of money lost
+		
+	examples
+	
+		vanguard: VTSAX, VTI
+		schwab: SWTSX, SCHB
+		fidelity: FSTMX
+		
+		if you dont have access to Total stock market
+			broad market
+			S&P 500 or Dow Jones, etc
+		
+		
+	principals
+	
+		There is a major market crash coming!	
+		
+			there will always be market corrections
+			see: risk tollerance
+	
+		you cannot time the market
+		
+			no one can tell the future
+			dont believe anyone on TV who says they can
+		
+		the market always goes up
+		
+			invest for the long term and dont pull out
+		
+			https://www.marketwatch.com/story/this-is-the-top-no-wait-this-is-the-top-2016-07-21
+		
+			over the last 40 years the market averaged an increase of %11.9
+		
+			according to research by fidelity:
+			the people who perform best with funds are...
+				1. people who are dead
+				2. people who forgot about their investments
+
+		low effort self management
+		
+			takes a couple hours a year to check up on and rebalance if you want
+			
+		diversification
+		
+			total stock market index has 3000+ US companies
+			
+			but if you want more there are index funds for developing countries and developed non-US countries, sectors etc.
+			
+			also bonds, etc
+			
+		dicipline
+		
+			dont wait to put money in
+				you are loosing gains by keeping money out
+				even if there is a dip your earlier gains can make up for it
+			dont watch it every day
+			dont panic and pull money out
+			put money in regularly
+				when the market dips, everything is on sale
+			
+		my plan
+			treat it like my 401k and put in a fixed amount every month
+			90% in total stock market including retirement accounts
+			the rest in cash
+			when I turn 50 I will start to rebalance into %25 bonds
+
+
+tax optimization
+
+	reduce taxable income
+	
+		401k - retirement = $18.5k / year
+		IRA - retirment = $5.5 / year
+		529 - college savings = high but varries by state
+		457 - teacher savings plan = $35k / year
+		HSA - like a long term investable FSA = $3.4k / year
+		deductions / charitable donations
+
+
+	managage your taxable investments well
+	
+		tax-gain harvesting
+		tax-loss harvesting
+		
+
+
+Churning - the fun part
+
+	"Churning is the practice of signing up for credit cards that offer large signup bonuses in the form of miles, points, or straight cash back for the purpose of obtaining the bonus before cancelling the card."
+	
+	not for everyone, but its relatively easy and people treat it like a game
+	
+		takes a little organization
+		
+	opening schedule chart
+		https://i.imgur.com/j4Pk9Cp.png
+		
+	Will this affect my credit score?
+	
+		if you have good credit and are good at keeping it, this should not be bad for your FICO credit score
+	
+	example schedule
+	
+		get a chase card, spend $2k in the first 3 months and get 50k travel points
+		
+		every 3 months:
+
+		Chase Southwest Premier Business - 60k points
+		Chase Southwest Plus - 50k
+		Chase Sapphire Preferred - 50k
+		Chase Sapphire Reserve - 50k
+		Chase Ink Business Preferred - 80K
+		United MileagePlus Explorer - 50k
+		Chase Freedom - $150
+
+		2 years later you have ~300k points
+		which can be worth $4k in flights/hotels/car rentals
+
+	
+
+
+community
+
+	there is a vibrant community around this and different schools of though
+	books, blogs, podcasts, Chautauquas
+	
+	quality of life / early retirment
+		general happiness
+		hobby development
+		volunteerism
+		home schooling your kids
+		
+	life hacking
+		side hustles
+		DIY home repairs
+		grocery budgeting
+		being healthy (exercise and diet)
+		geographic arbitrage - moving/traveling/living in cheap places
+	
+	tax optimization
+		mega backdoor roth
+		403b stacking
+		HSA investments
+		asset location
+		roth conversion ladder
+		occupational arbitrage - teacher
+
+resources
+
+	Simple path to wealth
+	
+	Mr. Money Moustache, the poster child for 10 year retirement plan
+	
+	choosefi podcast
+	
+	r/financialindepence
+
+	r/chruning
+	
+
