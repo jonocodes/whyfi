@@ -18,11 +18,11 @@ I am not an expert. I just started learning about this stuff in the past 6 month
 
 ## What is FI?
 
+Note: Making enough money so you can move out of your parents house!
+
 ---
 
 # ![](/images/lawn_mower.jpg)
-
-Note: Making enough money so you can move out of your parents house!
 
 ---
 
@@ -581,5 +581,5 @@ Note: occupational arbitrage - teacher example
 
 &nbsp;
 
-Put savings into total stock market index fund<!-- .element: class="fragment" -->
+Put long term savings into a total stock market index fund<!-- .element: class="fragment" -->
 
