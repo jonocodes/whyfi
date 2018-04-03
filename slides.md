@@ -60,7 +60,7 @@ Avoid debt."
 
 ---
 
-### The simple math behind early retirement
+### The Simple Math Behind Early Retirement
 
 &nbsp;
 
@@ -103,7 +103,7 @@ as a percentage of your take-home pay
 		<td class="column-1">100</td><td class="column-2">Zero</td>
 	</tr></tbody></table>
 
-Note: average plos employee puts in 7% from pay check
+Note: average PLOS employee puts in 7% from pay check
 
 ---
 
@@ -144,7 +144,7 @@ Note: here are some of the high level concepts. you can do any or all of these a
 &nbsp;
 
 * Pay off highest interest loans first<!-- .element: class="fragment" -->
-* Etc...<!-- .element: class="fragment" -->
+* etc...<!-- .element: class="fragment" -->
 * See Dave Ramsey for more info<!-- .element: class="fragment" -->
 
 ---
@@ -248,8 +248,8 @@ Note:
 Jono's crude view of investment risks vs rewards
 here is a terrible graphic I made
 
-Banks / credit unions = %0.10
-CDs / Money market = %0.20
+Banks / credit unions = %0.25
+CDs / Money market = %1
 Government bonds = %2-%3
 Junk bonds = %6
 (Interest rates) = %1 - %10
@@ -257,8 +257,7 @@ TDFs / Robo advisors
 Index funds = %8
 Real estate
 Individual stocks > %20
-Collectables
-Crytocurrency = -%50 - %1000
+Collectables / Crytocurrency = -%50 to %1000
 
 ---
 
@@ -270,7 +269,7 @@ Note: the stock market can be volatile. you can loose money one day and gain the
 
 ---
 
-## Emergency fund
+## Emergency Fund
 
 &nbsp;
 
@@ -318,7 +317,7 @@ If you dont have access to Total stock market:
 
 Start with $10k in a saving account
 
-* Bank interest rate = %2
+* Bank savings rate = %0.5
 
 * Federal interest rate (40 year avg) = %5
 
@@ -574,7 +573,7 @@ Note: occupational arbitrage - teacher example
 
 * [r/churning](https://www.reddit.com/r/churning/) (Forum)
   
-* [This presentation](http://jonocodes.github.io/whyfi) (http://jonocodes.github.io/whyfi)
+* [jonocodes.github.io/whyfi](http://jonocodes.github.io/whyfi) (This Talk)
 
 ---
 

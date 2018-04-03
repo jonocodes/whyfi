@@ -1,7 +1,6 @@
 {
   "controls": true,
   "progress": false,
-  "transition": "zoom",
-  "math": { }
+  "transition": "zoom"
 }
 
