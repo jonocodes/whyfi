@@ -44,6 +44,8 @@ Note:
 
 -- [Mr. Money Moustache](https://vimeo.com/183016901)
 
+Note: Retirement does not necessarrily mean "quitting". Its just about having the freedom to do what you want.
+
 ---
 
 ### The 10,000 Foot View
@@ -185,13 +187,20 @@ On average Americans spend $1000 to $3000 a year on eating out for lunch
 
 Yearly savings (BYOL) = ~$700
 
+Invest those savings in an index fund, and 10 years later =<!-- .element: class="fragment" -->
+
+~ $11000<!-- .element: class="fragment" -->
+
+
+Note: you can buy a used car with that savings
+
 ---
 
 ## Buy a Gently Used Car
 
 # ![](/images/buying_car.jpg)
 
-Yearly savings of buying a 2 year old car = ~$700
+Yearly savings of buying a 3 year old car = ~$1000
 
 Note: Most new cars depreciate 40% to 50% during the first three years of ownership.
 
@@ -255,8 +264,7 @@ Junk bonds = %6
 (Interest rates) = %1 - %10
 TDFs / Robo advisors
 Index funds = %8
-Real estate
-Individual stocks > %20
+Individual stocks +/- %40
 Collectables / Crytocurrency = -%50 to %1000
 
 ---
@@ -287,13 +295,16 @@ Keep 0 to 9 months of your living expenses in liquid cash (bank account) dependi
 
 ---
 
-[Warren Buffett says](http://www.berkshirehathaway.com/letters/2013ltr.pdf) for most people their investments should be:
+* "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and __90%__ in a very __low-cost__ S&P 500 __index fund__. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers."
 
-90% index funds, 10% bonds
+-- [Warren Buffett](http://www.berkshirehathaway.com/letters/2013ltr.pdf)
+
+
+Note: This guy is literally the best stock picker of all time.
 
 ---
 
-## Example funds
+## Example Funds
 
 * Vanguard: VTSAX, VTI
 
@@ -348,6 +359,8 @@ Note: mention bank gains loose money
 
 * Always expect them
 
+* During a downturn stocks are "on sale"
+
 Note: its about time we have one. the market is over inflated.
 
 ---
@@ -370,7 +383,7 @@ Invest for the long term
 
 * Over the last 40 years the [average yearly market](http://www.moneychimp.com/features/market_cagr.htm) increase is %12.6
 
-* over the last 100 years the average yearly market increase is %12
+* Over the last 100 years the average yearly market increase is %12
 
 ---
 
@@ -399,6 +412,9 @@ Note: Even with these disasters...
     * people who forgot about their investments<!-- .element: class="fragment" -->
     * people who are dead<!-- .element: class="fragment" -->
 
+
+Note: to the young people in the room, time is on your side
+
 ---
 
 ## Keep Disciplined
@@ -409,10 +425,8 @@ Note: Even with these disasters...
 
 * Put money in regularly
 
-Note: 
-even if there is a dip in the markey your earlier gains can make up for it
+Note: even if there is a dip in the market your earlier gains can make up for it
 
-when the market dips, everything is on sale
 ---
 
 ## Low Effort Self Management
@@ -420,6 +434,8 @@ when the market dips, everything is on sale
 &nbsp;
 
 Takes a couple hours a year to check up on and rebalance if you want
+
+Note: explain "rebalancing"
 
 ---
 
@@ -429,7 +445,7 @@ Takes a couple hours a year to check up on and rebalance if you want
 
 * Total stock market index has 3000+ US companies.
 
-* But if you want more diversification there are index funds for developing countries and developed non-US countries, specific sectors.
+* But if you want more diversification there are index funds for developing countries, developed non-US countries, specific sectors...
 
 * Or bonds, gold, real estate, etc. (see risk vs reward)
 
@@ -527,6 +543,7 @@ There is an active community with many schools of thought, debates, books, blogs
 &nbsp;
 
 * Raising or home schooling your children
+* Continuing to work (when/where/how you want)
 * Hobby development
 * Volunteerism
 * General happiness
