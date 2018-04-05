@@ -105,7 +105,9 @@ as a percentage of your take-home pay
 		<td class="column-1">100</td><td class="column-2">Zero</td>
 	</tr></tbody></table>
 
-Note: average PLOS employee puts in 7% from pay check
+Note: average PLOS employee puts in 7% from pay check. 
+
+The size of your take home pay does not matter. 
 
 ---
 
@@ -148,6 +150,8 @@ Note: here are some of the high level concepts. you can do any or all of these a
 * Pay off highest interest loans first<!-- .element: class="fragment" -->
 * etc...<!-- .element: class="fragment" -->
 * See Dave Ramsey for more info<!-- .element: class="fragment" -->
+
+Note: we lost $40k while paying off student loans. 
 
 ---
 
@@ -213,7 +217,7 @@ Note: Most new cars depreciate 40% to 50% during the first three years of owners
 ---
 
 * Bikes are inexpensive
-* Eequire no insurance, registration, license, parking spaces
+* Require no insurance, registration, license, parking spaces
 * Easy to own (storage, upkeep, replacement)
 * Saves time and money for not going to the gym
 * Reduces medical spending
@@ -503,7 +507,7 @@ Note: if you have good credit and are good at keeping it, this should not be bad
 * Spend $2k in the first 3 months
 * Recieve bonus of 50k travel points
 
-Every 3 months open a new card and repeat
+Every 3 months open a different card and repeat
 
 ---
 
