@@ -10,7 +10,7 @@ Note: by Jono
 
 Nothing in this presentation is endorsed by PLOS. Neither I nor PLOS hold any responsibility for actions you take based on this information.
 
-Note: I will be explaining some concepts that I use to manage my personal finances. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tollerance.
+Note: I will be explaining some concepts that I use to manage my personal finances. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tolerance.
 
 I am not an expert. I just started learning about this stuff in the past 6 months.
 
@@ -26,9 +26,9 @@ Note: Making enough money so you can move out of your parents house!
 
 ---
 
-* Financial Independence is closely related to the concept of Retiring Early and pursuing to do what you want with your time.
+* Financial Independence is closely related to the concept of retiring early and pursuing to do what you want with your time.
 
-* At its core, it is about maximizing your savings rate to achieve FI and have the freedom to retire as fast as possible.
+* At its core, it is about maximizing your savings rate to achieve FI and have the freedom to retire as early as possible.
 
 Note:
 * Discovering and achieving life goals: “What would I do with my life if I didn't have to work for money?"
@@ -44,7 +44,7 @@ Note:
 
 -- [Mr. Money Moustache](https://vimeo.com/183016901)
 
-Note: Retirement does not necessarrily mean "quitting". Its just about having the freedom to do what you want.
+Note: Retirement does not necessarily mean "quitting". Its just about having the freedom to do what you want.
 
 ---
 
@@ -105,9 +105,9 @@ as a percentage of your take-home pay
 		<td class="column-1">100</td><td class="column-2">Zero</td>
 	</tr></tbody></table>
 
-Note: average PLOS employee puts in 7% from pay check. 
+Note: average PLOS employee puts in 7% from pay check.
 
-The size of your take home pay does not matter. 
+The size of your take home pay does not matter.
 
 ---
 
@@ -117,7 +117,7 @@ The size of your take home pay does not matter.
 
 You are ready to retire
 
-once you can live on %4 of your savings per year.
+once you can live on 4% of your savings per year.
 
 Note: if your yearly cost is 40k, then you must have 1M saved
 your savings will most likely continue to grow large after this
@@ -129,7 +129,7 @@ your savings will most likely continue to grow large after this
 &nbsp;
 
 1. Getting out of debt
- 
+
 2. ** Building wealth **
 
 3. Preserving wealth
@@ -148,10 +148,10 @@ Note: here are some of the high level concepts. you can do any or all of these a
 &nbsp;
 
 * Pay off highest interest loans first<!-- .element: class="fragment" -->
-* etc...<!-- .element: class="fragment" -->
+* etc.<!-- .element: class="fragment" -->
 * See Dave Ramsey for more info<!-- .element: class="fragment" -->
 
-Note: we lost $40k while paying off student loans. 
+Note: we lost $40k while paying off student loans.
 
 ---
 
@@ -167,7 +167,7 @@ Average phone bill = $73
 
 "Unlimited" plans are not worth it
 
-Use a cheap no-contract MVNO instead
+Use an inexpensive no-contract MVNO instead
 
 Pay $0 to $30 per month
 
@@ -185,7 +185,7 @@ Yearly savings ($25 vs $60) = ~$400 / per line
 
 &nbsp;
 
-On average Americans spend $1000 to $3000 a year on eating out for lunch
+On average Americans spend $1,000 to $3,000 a year on eating out for lunch
 
 &nbsp;
 
@@ -193,7 +193,7 @@ Yearly savings (BYOL) = ~$700
 
 Invest those savings in an index fund, and 10 years later =<!-- .element: class="fragment" -->
 
-~ $11000<!-- .element: class="fragment" -->
+~ $11,000<!-- .element: class="fragment" -->
 
 
 Note: you can buy a used car with that savings
@@ -204,7 +204,7 @@ Note: you can buy a used car with that savings
 
 # ![](/images/buying_car.jpg)
 
-Yearly savings of buying a 3 year old car = ~$1000
+Yearly savings of buying a 3 year old car = ~$1,000
 
 Note: Most new cars depreciate 40% to 50% during the first three years of ownership.
 
@@ -217,17 +217,17 @@ Note: Most new cars depreciate 40% to 50% during the first three years of owners
 ---
 
 * Bikes are inexpensive
-* Require no insurance, registration, license, parking spaces
+* Requires no insurance, registration, license, parking spaces
 * Easy to own (storage, upkeep, replacement)
 * Saves time and money for not going to the gym
-* Reduces medical spending
+* Reduces medical expenses
 * Bonus:
-	* Biking is statistically safer then driving
+	* Biking is statistically safer than driving
 	* [Increases your lifespan!](https://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/)
 
 &nbsp;
 
-Yearly savings by biking instead of driving = ~$8000
+Yearly savings by biking instead of driving = ~$8,000
 
 ---
 
@@ -289,7 +289,7 @@ Keep 0 to 9 months of your living expenses in liquid cash (bank account) dependi
 
 ---
 
-### Low fee, Total stock market, Index funds
+### Low fee, total stock market, index funds
 
 &nbsp;
 
@@ -316,7 +316,7 @@ Note: This guy is literally the best stock picker of all time.
 
 * Fidelity: FSTMX
 
-If you dont have access to Total stock market:
+If you don't have access to total stock market:
 
 * Find a broad market index
 
@@ -328,15 +328,15 @@ If you dont have access to Total stock market:
 
 ---
 
-## Example returns
+## Example Returns
 
 Start with $10k in a saving account
 
-* Bank savings rate = %0.5
+* Bank savings rate = 0.5%
 
-* Federal interest rate (40 year avg) = %5
+* Federal interest rate (40 year avg) = 5%
 
-* Stock market growth = %8
+* Stock market growth = 8%
 
 
 Put in an total stock market for 30 years:
@@ -355,7 +355,7 @@ Note: mention bank gains loose money
 
 ---
 
-## There Is a Major Crash Coming!
+## There is a Major Crash Coming!
 
 &nbsp;
 
@@ -385,9 +385,9 @@ Note: its about time we have one. the market is over inflated.
 
 Invest for the long term
 
-* Over the last 40 years the [average yearly market](http://www.moneychimp.com/features/market_cagr.htm) increase is %12.6
+* Over the last 40 years the [average yearly market](http://www.moneychimp.com/features/market_cagr.htm) increase is 12.6%
 
-* Over the last 100 years the average yearly market increase is %12
+* Over the last 100 years the average yearly market increase is 12%
 
 ---
 
@@ -407,14 +407,14 @@ Note: Even with these disasters...
 
 ---
 
-### Dont Get Cold Feet
+### Don't Get Cold Feet
 
 * Those who leave money in the market longer tend to have better returns.
 
-* [The people who perform best with funds are:](http://www.businessinsider.com/forgetful-investors-performed-best-2014-9)
+* [People who perform best with funds are:](http://www.businessinsider.com/forgetful-investors-performed-best-2014-9)
 
-    * people who forgot about their investments<!-- .element: class="fragment" -->
-    * people who are dead<!-- .element: class="fragment" -->
+    * Those who forgot about their investments<!-- .element: class="fragment" -->
+    * Those who are dead<!-- .element: class="fragment" -->
 
 
 Note: to the young people in the room, time is on your side
@@ -425,7 +425,7 @@ Note: to the young people in the room, time is on your side
 
 &nbsp;
 
-* Dont wait to invest
+* Don't wait to invest
 
 * Put money in regularly
 
@@ -447,11 +447,11 @@ Note: explain "rebalancing"
 
 &nbsp;
 
-* Total stock market index has 3000+ US companies.
+* Total stock market index has 3,000+ US companies.
 
 * But if you want more diversification there are index funds for developing countries, developed non-US countries, specific sectors...
 
-* Or bonds, gold, real estate, etc. (see risk vs reward)
+* Or bonds, gold, real estate, etc. (see risk vs. reward)
 
 ---
 
@@ -461,8 +461,8 @@ Note: explain "rebalancing"
 
 * Treat the index fund like my 401k and put in a fixed amount every month
 * Keep 90% in total stock market (including retirement accounts)
-* %10 in cash
-* When I turn 50 I will start to rebalance %25 into bonds (wealth preservation)
+* 10% in cash
+* When I turn 50 I will start to re-balance 25% into bonds (wealth preservation)
 
 ---
 
@@ -475,11 +475,11 @@ Note: explain "rebalancing"
 &nbsp;
 
 * 401k - retirement = $18.5k / year
-* IRA - retirment = $5.5 / year
+* IRA - retirement = $5.5 / year
 * HSA - like a long term investable FSA = $3.4k / year
 * 529 - college savings = $475k / lifetime in CA
 * 457 - teacher savings plan = $35k / year
-* deductions, stock donations
+* Deductions, stock donations
 
 ---
 
@@ -505,7 +505,7 @@ Note: if you have good credit and are good at keeping it, this should not be bad
 
 * Get a Chase credit card
 * Spend $2k in the first 3 months
-* Recieve bonus of 50k travel points
+* Receive bonus of 50k travel points
 
 Every 3 months open a different card and repeat
 
@@ -560,7 +560,7 @@ There is an active community with many schools of thought, debates, books, blogs
 
 * DIY home repairs
 * Side hustles
-* Being healthy (exercise and diet)
+* Staying healthy (exercise and diet)
 * Grocery budgeting
 * Geographic arbitrage
 
@@ -593,7 +593,7 @@ Note: occupational arbitrage - teacher example
 * [r/FinancialIndependence](https://www.reddit.com/r/financialindependence/) (Forum)
 
 * [r/churning](https://www.reddit.com/r/churning/) (Forum)
-  
+
 * [jonocodes.github.io/whyfi](http://jonocodes.github.io/whyfi) (This Talk)
 
 ---
@@ -603,4 +603,3 @@ Note: occupational arbitrage - teacher example
 &nbsp;
 
 Put long term savings into a total stock market index fund<!-- .element: class="fragment" -->
-
