@@ -8,9 +8,11 @@ Note: by Jono
 
 &nbsp;
 
-Nothing in this presentation is endorsed by PLOS. Neither I nor PLOS hold any responsibility for actions you take based on this information.
+...
 
-Note: I will be explaining some concepts that I use to manage my personal finances. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tolerance.
+Note: Nothing in this presentation is endorsed by PLOS. Neither I nor PLOS hold any responsibility for actions you take based on this information.
+
+I will be explaining some concepts that I use to manage my personal finances. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tolerance.
 
 I am not an expert. I just started learning about this stuff in the past 6 months.
 
@@ -462,7 +464,7 @@ Note: explain "rebalancing"
 * Treat the index fund like my 401k and put in a fixed amount every month
 * Keep 90% in total stock market (including retirement accounts)
 * 10% in cash
-* When I turn 50 I will start to re-balance 25% into bonds (wealth preservation)
+* When I turn 50 I will start to rebalance 25% into bonds (wealth preservation)
 
 ---
 
