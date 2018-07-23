@@ -10,11 +10,9 @@ Note: by Jono
 
 ...
 
-Note: Nothing in this presentation is endorsed by PLOS. Neither I nor PLOS hold any responsibility for actions you take based on this information.
+Note: Nothing in this presentation is endorsed by (COMPANY NAME HERE). Neither I nor (COMPANY NAME HERE) hold any responsibility for actions you take based on this information.
 
-I will be explaining some concepts that I use to manage my personal finances. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tolerance.
-
-I am not an expert. I just started learning about this stuff in the past 6 months.
+I will be explaining some concepts that I use to manage my personal finances. I am not an expert. Each person's needs are unique and there is not a one size fits all solution for every situation or risk tolerance.
 
 ---
 
@@ -28,9 +26,9 @@ Note: Making enough money so you can move out of your parents house!
 
 ---
 
-* Financial Independence is closely related to the concept of retiring early and pursuing to do what you want with your time.
+* Financial Independence is about the journey to early retirement and/or pursuing to do what you want with your time.
 
-* At its core, it is about maximizing your savings rate to achieve FI and have the freedom to retire as early as possible.
+* At its core, it is about maximizing your savings rate.
 
 Note:
 * Discovering and achieving life goals: “What would I do with my life if I didn't have to work for money?"
@@ -38,7 +36,6 @@ Note:
 * Working to increase your income and income streams with projects, side-gigs, and additional effort
 * Striving to save a large percentage (generally more than 50%) of your income to accelerate achieving FI
 * Investing to make your money work for you, and learning to manage/optimize those investments for the unique nature of FI/RE
-* Retiring Early
 
 ---
 
@@ -107,9 +104,9 @@ as a percentage of your take-home pay
 		<td class="column-1">100</td><td class="column-2">Zero</td>
 	</tr></tbody></table>
 
-Note: average PLOS employee puts in 7% from pay check.
+Note: average (company) employee puts in 7% from pay check.
 
-The size of your take home pay does not matter.
+FI is about assessing your earnings vs your spending. The size of your take home pay does not matter. If you save 100% of your earnings then you spend 0% of it and you dont need to work at all!
 
 ---
 
@@ -158,6 +155,12 @@ Note: we lost $40k while paying off student loans.
 ---
 
 # Get Frugal
+
+Note: Some focus on earnings. But you can only control your job so much.
+
+Many find its easier to take control of their spending instead of earning. This is where wise purchases come into play.
+
+(Here in the bay area, cost of living makes spending control difficult, but its not a lost cause)
 
 ---
 
@@ -489,7 +492,7 @@ Note: explain "rebalancing"
 
 &nbsp;
 
-Churning is the practice of signing up for credit cards that offer large signup bonuses in the form of miles, points, or straight cash back for the purpose of obtaining the bonus before canceling the card.
+Churning is the practice of signing up for credit cards that offer large signup bonuses in the form of miles, points, or cash back for the purpose of obtaining the bonus before canceling the card.
 
 Note: not for everyone, but with a little organization its relatively easy and people treat it like a game
 
@@ -540,7 +543,7 @@ Note: opening schedule chart
 
 &nbsp;
 
-There is an active community with many schools of thought, debates, books, blogs, podcasts, gatherings, etc.
+There is an active community with many schools of thought, debates, books, blogs, podcasts, gatherings, and more.
 
 ---
 
