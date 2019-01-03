@@ -1,4 +1,17 @@
 
+setup
+	
+	npm install reveal-md
+	
+	./build.sh
+	
+	open index.html in the browser
+	
+	commit to github when ready
+	
+
+notes scratch
+
 			banks. fdic protection
 			robo advisors. betterment and wealthfront. does a risk assesment, puts the money in, rebalances
 

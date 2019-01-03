@@ -150,7 +150,7 @@ Note: here are some of the high level concepts. you can do any or all of these a
 * etc.<!-- .element: class="fragment" -->
 * See Dave Ramsey for more info<!-- .element: class="fragment" -->
 
-Note: we lost $40k while paying off student loans.
+Note: we lost $40k to interest while paying off student loans.
 
 ---
 
@@ -304,7 +304,7 @@ Keep 0 to 9 months of your living expenses in liquid cash (bank account) dependi
 
 ---
 
-* "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and __90%__ in a very __low-cost__ S&P 500 __index fund__. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers."
+* "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and __90%__ in a very __low-cost__ S&P 500 __index fund__. I believe the trust's long-term results from this policy will be superior to those attained by most investors who employ high-fee managers."
 
 -- [Warren Buffett](http://www.berkshirehathaway.com/letters/2013ltr.pdf)
 
@@ -315,9 +315,9 @@ Note: This guy is literally the best stock picker of all time.
 
 ## Example Funds
 
-* Vanguard: VTSAX, VTI
+* Vanguard: VTSAX
 
-* Schwab: SWTSX, SCHB
+* Schwab: SWTSX
 
 * Fidelity: FSTMX
 
@@ -325,7 +325,7 @@ If you don't have access to total stock market:
 
 * Find a broad market index
 
-* Or something that tracks S&P 500 or Dow Jones, etc.
+* Or something that tracks S&P 500, or Dow Jones, etc.
 
 ---
 
@@ -384,6 +384,19 @@ Note: its about time we have one. the market is over inflated.
 
 ---
 
+## Experiment
+
+[Lets say you have $2k of cash to invest each year for 20 years, starting in 1993](https://www.schwab.com/resource-center/insights/content/does-market-timing-work)
+
+* Kept in a checking account = $42k
+* U.S. Treasury Bills = $51k
+* Bad timing S&P 500 = $72k
+* Perfect timing S&P500 = $87k
+
+Note: Source is Study by Schwab Center for Financial Research (2012)
+
+---
+
 ## The Market Always Goes Up
 
 &nbsp;
@@ -438,16 +451,6 @@ Note: even if there is a dip in the market your earlier gains can make up for it
 
 ---
 
-## Low Effort Self Management
-
-&nbsp;
-
-Takes a couple hours a year to check up on and rebalance if you want
-
-Note: explain "rebalancing"
-
----
-
 ## Diversification
 
 &nbsp;
@@ -479,8 +482,8 @@ Note: explain "rebalancing"
 
 &nbsp;
 
-* 401k - retirement = $18.5k / year
-* IRA - retirement = $5.5 / year
+* 401k - retirement = $19k / year
+* IRA - retirement = $6k / year
 * HSA - like a long term investable FSA = $3.4k / year
 * 529 - college savings = $475k / lifetime in CA
 * 457 - teacher savings plan = $35k / year
@@ -524,7 +527,6 @@ Every 3 months open a different card and repeat
 * Chase Sapphire Reserve = 50k
 * Chase Ink Business Preferred = 80K
 * United MileagePlus Explorer = 50k
-* Chase Freedom = $150
 
 2 years later you have ~300k points
 worth ~$4k in flights/hotels/car rentals
