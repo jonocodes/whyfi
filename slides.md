@@ -108,20 +108,6 @@ Note: average (company) employee puts in 7% from pay check.
 
 FI is about assessing your earnings vs your spending. The size of your take home pay does not matter. If you save 100% of your earnings then you spend 0% of it and you dont need to work at all!
 
----
-
-## The 4% rule
-
-&nbsp;
-
-You are ready to retire
-
-once you can live on 4% of your savings per year.
-
-Note: if your yearly cost is 40k, then you must have 1M saved
-your savings will most likely continue to grow large after this
-
----
 
 ## Phases of FI
 
@@ -384,16 +370,16 @@ Note: its about time we have one. the market is over inflated.
 
 ---
 
-## Experiment
+## An Experiment
 
 [Lets say you have $2k of cash to invest each year for 20 years, starting in 1993](https://www.schwab.com/resource-center/insights/content/does-market-timing-work)
 
 * Kept in a checking account = $42k
-* U.S. Treasury Bills = $51k
-* Bad timing S&P 500 = $72k
-* Perfect timing S&P500 = $87k
+* U.S. Treasury Bills (bonds) = $51k
+* Worst timing S&P 500 = $72k
+* Perfect timing S&P 500 = $87k
 
-Note: Source is Study by Schwab Center for Financial Research (2012)
+Note: Source is Study by Schwab Center for Financial Research (2012). It was also tested against 68 different years/spans.
 
 ---
 

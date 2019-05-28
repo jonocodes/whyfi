@@ -12,11 +12,9 @@
           <link rel="stylesheet" href="./_assets/custom.css">
 
 		<script>
-		  document.write(
-        '<script src="http://' +
-        (location.host || 'localhost').split(':')[0] +
-        ':35729/livereload.js?snipver=1"></' + 'script>');
-    </script>
+		  document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] +
+		  ':35729/livereload.js?snipver=1"></' + 'script>')
+		</script>
 
     </head>
     <body>
@@ -114,28 +112,17 @@ as a percentage of your take-home pay
 
 <aside class="notes"><p>average (company) employee puts in 7% from pay check.</p>
 <p>FI is about assessing your earnings vs your spending. The size of your take home pay does not matter. If you save 100% of your earnings then you spend 0% of it and you dont need to work at all!</p>
+<h2 id="phases-of-fi">Phases of FI</h2>
+<p>&nbsp;</p>
+<ol>
+<li><p>Getting out of debt</p>
+</li>
+<li><p><strong> Building wealth </strong></p>
+</li>
+<li><p>Preserving wealth</p>
+</li>
+</ol>
 </aside></script></section><section  data-markdown><script type="text/template">
-## The 4% rule
-
-&nbsp;
-
-You are ready to retire
-
-once you can live on 4% of your savings per year.
-
-<aside class="notes"><p>if your yearly cost is 40k, then you must have 1M saved
-your savings will most likely continue to grow large after this</p>
-</aside></script></section><section  data-markdown><script type="text/template">
-## Phases of FI
-
-&nbsp;
-
-1. Getting out of debt
-
-2. ** Building wealth **
-
-3. Preserving wealth
-</script></section><section  data-markdown><script type="text/template">
 # How?
 
 <aside class="notes"><p>here are some of the high level concepts. you can do any or all of these and take them to any depth.</p>
@@ -333,16 +320,16 @@ Put in an total stock market for 30 years:
 
 * Don't believe anyone on TV who says they can
 </script></section><section  data-markdown><script type="text/template">
-## Experiment
+## An Experiment
 
 [Lets say you have $2k of cash to invest each year for 20 years, starting in 1993](https://www.schwab.com/resource-center/insights/content/does-market-timing-work)
 
 * Kept in a checking account = $42k
-* U.S. Treasury Bills = $51k
-* Bad timing S&P 500 = $72k
-* Perfect timing S&P500 = $87k
+* U.S. Treasury Bills (bonds) = $51k
+* Worst timing S&P 500 = $72k
+* Perfect timing S&P 500 = $87k
 
-<aside class="notes"><p>Source is Study by Schwab Center for Financial Research (2012)</p>
+<aside class="notes"><p>Source is Study by Schwab Center for Financial Research (2012). It was also tested against 68 different years/spans.</p>
 </aside></script></section><section  data-markdown><script type="text/template">
 ## The Market Always Goes Up
 
@@ -567,13 +554,13 @@ Put long term savings into a total stock market index fund<!-- .element: class="
             // options from URL query string
             var queryOptions = Reveal.getQueryHash() || {};
 
-            var options = {};
+            var options = {"controls":true,"progress":false,"transition":"zoom"};
             options = extend(defaultOptions, options, queryOptions);
         </script>
 
 
         <script>
-          Reveal.initialize(options);
+            Reveal.initialize(options);
         </script>
     </body>
 </html>
