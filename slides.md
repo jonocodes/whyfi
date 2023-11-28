@@ -26,16 +26,17 @@ Note: Making enough money so you can move out of your parents house!
 
 ---
 
-* Financial Independence is about the journey to early retirement and/or pursuing to do what you want with your time.
+- Financial Independence is about the journey to early retirement and/or pursuing to do what you want with your time.
 
-* At its core, it is about maximizing your savings rate.
+- At its core, it is about maximizing your savings rate.
 
 Note:
-* Discovering and achieving life goals: “What would I do with my life if I didn't have to work for money?"
-* Simplifying and redesigning your lifestyle to reduce spending. Your wants and needs aren't written in stone, and less spending is powerful at any income level.
-* Working to increase your income and income streams with projects, side-gigs, and additional effort
-* Striving to save a large percentage (generally more than 50%) of your income to accelerate achieving FI
-* Investing to make your money work for you, and learning to manage/optimize those investments for the unique nature of FI/RE
+
+- Discovering and achieving life goals: “What would I do with my life if I didn't have to work for money?"
+- Simplifying and redesigning your lifestyle to reduce spending. Your wants and needs aren't written in stone, and less spending is powerful at any income level.
+- Working to increase your income and income streams with projects, side-gigs, and additional effort
+- Striving to save a large percentage (generally more than 50%) of your income to accelerate achieving FI
+- Investing to make your money work for you, and learning to manage/optimize those investments for the unique nature of FI/RE
 
 ---
 
@@ -108,7 +109,6 @@ Note: average (company) employee puts in 7% from pay check.
 
 FI is about assessing your earnings vs your spending. The size of your take home pay does not matter. If you save 100% of your earnings then you spend 0% of it and you dont need to work at all!
 
-
 ## Phases of FI
 
 &nbsp;
@@ -129,12 +129,11 @@ Note: here are some of the high level concepts. you can do any or all of these a
 
 ## Get Out of Debt
 
-
 &nbsp;
 
-* Pay off highest interest loans first<!-- .element: class="fragment" -->
-* etc.<!-- .element: class="fragment" -->
-* See Dave Ramsey for more info<!-- .element: class="fragment" -->
+- Pay off highest interest loans first<!-- .element: class="fragment" -->
+- etc.<!-- .element: class="fragment" -->
+- See Dave Ramsey for more info<!-- .element: class="fragment" -->
 
 Note: we lost $40k to interest while paying off student loans.
 
@@ -186,7 +185,6 @@ Invest those savings in an index fund, and 10 years later =<!-- .element: class=
 
 ~ $11,000<!-- .element: class="fragment" -->
 
-
 Note: you can buy a used car with that savings
 
 ---
@@ -207,14 +205,12 @@ Note: Most new cars depreciate 40% to 50% during the first three years of owners
 
 ---
 
-* Bikes are inexpensive
-* Requires no insurance, registration, license, parking spaces
-* Easy to own (storage, upkeep, replacement)
-* Saves time and money for not going to the gym
-* Reduces medical expenses
-* Bonus:
-	* Biking is statistically safer than driving
-	* [Increases your lifespan!](https://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/)
+- Bikes are inexpensive
+- Requires no insurance, registration, license, parking spaces
+- Reduces medical expenses
+- Bonus:
+  - Biking is statistically safer than driving
+  - [Increases your lifespan!](https://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/)
 
 &nbsp;
 
@@ -234,8 +230,8 @@ Yearly savings by biking instead of driving = ~$8,000
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BtPtZDpVMnI?rel=0&amp;start=130" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/BtPtZDpVMnI?rel=0&amp;start=130" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ok?
 ---
 
 # Investing
@@ -284,16 +280,15 @@ Keep 0 to 9 months of your living expenses in liquid cash (bank account) dependi
 
 &nbsp;
 
-* An index mutual fund is said to provide broad market exposure and low portfolio turnover.<!-- .element: class="fragment" -->
-* Total stock market means it tracks all publicly traded US companies, weighted by the market. When companies get too small, they get filtered out of the index.<!-- .element: class="fragment" -->
-* Index funds usually have only %10 the management fee of managed mutual funds.<!-- .element: class="fragment" -->
+- An index mutual fund is said to provide broad market exposure and low portfolio turnover.<!-- .element: class="fragment" -->
+- Total stock market means it tracks all publicly traded US companies, weighted by the market. When companies get too small, they get filtered out of the index.<!-- .element: class="fragment" -->
+- Index funds usually have only %10 the management fee of managed mutual funds.<!-- .element: class="fragment" -->
 
 ---
 
-* "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and __90%__ in a very __low-cost__ S&P 500 __index fund__. I believe the trust's long-term results from this policy will be superior to those attained by most investors who employ high-fee managers."
+- "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and <u>90%</u> in a very **low-cost** S&P 500 **index fund**. I believe the trust's long-term results from this policy will be superior to those attained by most investors who employ high-fee managers."
 
 -- [Warren Buffett](http://www.berkshirehathaway.com/letters/2013ltr.pdf)
-
 
 Note: This guy is literally the best stock picker of all time.
 
@@ -301,17 +296,15 @@ Note: This guy is literally the best stock picker of all time.
 
 ## Example Funds
 
-* Vanguard: VTSAX
+- Vanguard: VTSAX
 
-* Schwab: SWTSX
+- Schwab: SWTSX
 
-* Fidelity: FSTMX
+- Fidelity: FSTMX
 
-If you don't have access to total stock market:
+If you want to exclude some no-so-nice companies:
 
-* Find a broad market index
-
-* Or something that tracks S&P 500, or Dow Jones, etc.
+- My favorite: ESGV
 
 ---
 
@@ -323,18 +316,17 @@ If you don't have access to total stock market:
 
 Start with $10k in a saving account
 
-* Bank savings rate = 0.5%
+- Bank savings rate = 0.5%
 
-* Federal interest rate (40 year avg) = 5%
+- Federal interest rate (40 year avg) = 5%
 
-* Stock market growth = 8%
-
+- Stock market growth = 8%
 
 Put in an total stock market for 30 years:
 
-<p class="fragment">[do nothing](http://money.cnn.com/calculator/pf/moneygrow/) = $100k</p>
+<p class="fragment">do nothing = $100k</p>
 
-<p class="fragment">[add $500/month](http://money.cnn.com/calculator/pf/moneygrow/) = $855k</p>
+<p class="fragment">add $500 per month = $855k</p>
 
 Note: mention bank gains loose money
 
@@ -350,11 +342,11 @@ Note: mention bank gains loose money
 
 &nbsp;
 
-* Crashes are inevitable
+- Crashes are inevitable
 
-* Always expect them
+- Always expect them
 
-* During a downturn stocks are "on sale"
+- During a downturn stocks are "on sale"
 
 Note: its about time we have one. the market is over inflated.
 
@@ -364,9 +356,9 @@ Note: its about time we have one. the market is over inflated.
 
 &nbsp;
 
-* No one can tell the future
+- No one can tell the future
 
-* Don't believe anyone on TV who says they can
+- Don't believe those who says they can
 
 ---
 
@@ -374,10 +366,10 @@ Note: its about time we have one. the market is over inflated.
 
 [Lets say you have $2k of cash to invest each year for 20 years, starting in 1993](https://www.schwab.com/resource-center/insights/content/does-market-timing-work)
 
-* Kept in a checking account = $42k
-* U.S. Treasury Bills (bonds) = $51k
-* Worst timing S&P 500 = $72k
-* Perfect timing S&P 500 = $87k
+- Kept in a checking account = $42k
+- U.S. Treasury Bills (bonds) = $51k
+- Worst timing S&P 500 = $72k
+- Perfect timing S&P 500 = $87k
 
 Note: Source is Study by Schwab Center for Financial Research (2012). It was also tested against 68 different years/spans.
 
@@ -389,37 +381,37 @@ Note: Source is Study by Schwab Center for Financial Research (2012). It was als
 
 Invest for the long term
 
-* Over the last 40 years the [average yearly market](http://www.moneychimp.com/features/market_cagr.htm) increase is 12.6%
+- Over the last 40 years (1982-2022) the [average yearly market](http://www.moneychimp.com/features/market_cagr.htm) increase is 12.9%
 
-* Over the last 100 years the average yearly market increase is 12%
+- Over the last 100 years (1922-2022) the average yearly market increase is 12.5%
 
 ---
 
 # ![](/images/stock_top.png)
 
 Note: Even with these disasters...
-* great depression
-* world war II
-* a handful of mediocre presidents
-* vietnam war
-* jfk assination
-* melt downs, natural disasters, justin bieber
-* cold war
-* 9/11
-* war on terror, war on drugs, war on christmas
-* the great recession
+
+- great depression
+- world war II
+- a handful of mediocre presidents
+- vietnam war
+- jfk assination
+- melt downs, natural disasters, justin bieber
+- cold war
+- 9/11
+- war on terror, war on drugs, war on christmas
+- the great recession
 
 ---
 
 ### Don't Get Cold Feet
 
-* Those who leave money in the market longer tend to have better returns.
+- Those who leave money in the market longer tend to have better returns.
 
-* [People who perform best with funds are:](http://www.businessinsider.com/forgetful-investors-performed-best-2014-9)
+- [People who perform best with funds are:](http://www.businessinsider.com/forgetful-investors-performed-best-2014-9)
 
-    * Those who forgot about their investments<!-- .element: class="fragment" -->
-    * Those who are dead<!-- .element: class="fragment" -->
-
+  - Those who forgot about their investments<!-- .element: class="fragment" -->
+  - Those who are dead<!-- .element: class="fragment" -->
 
 Note: to the young people in the room, time is on your side
 
@@ -429,9 +421,9 @@ Note: to the young people in the room, time is on your side
 
 &nbsp;
 
-* Don't wait to invest
+- Don't wait to invest
 
-* Put money in regularly
+- Put money in regularly
 
 Note: even if there is a dip in the market your earlier gains can make up for it
 
@@ -441,11 +433,11 @@ Note: even if there is a dip in the market your earlier gains can make up for it
 
 &nbsp;
 
-* Total stock market index has 3,000+ US companies.
+- Total stock market index has 3,000+ US companies.
 
-* But if you want more diversification there are index funds for developing countries, developed non-US countries, specific sectors...
+- But if you want more diversification there are index funds for developing countries, developed non-US countries, specific sectors...
 
-* Or bonds, gold, real estate, etc. (see risk vs. reward)
+- Or bonds, gold, real estate, etc. (see risk vs. reward)
 
 ---
 
@@ -453,10 +445,11 @@ Note: even if there is a dip in the market your earlier gains can make up for it
 
 &nbsp;
 
-* Treat the index fund like my 401k and put in a fixed amount every month
-* Keep 90% in total stock market (including retirement accounts)
-* 10% in cash
-* When I turn 50 I will start to rebalance 25% into bonds (wealth preservation)
+- Treat the index fund like my 401k and put in a fixed amount every month
+- Keep over 90% in total stock market (including retirement accounts)
+- When I turn 50 I will start to rebalance 25% into bonds (wealth preservation)
+
+Note: I personally am not into early retirement or travel, but I like to be efficient
 
 ---
 
@@ -468,12 +461,12 @@ Note: even if there is a dip in the market your earlier gains can make up for it
 
 &nbsp;
 
-* 401k - retirement = $19k / year
-* IRA - retirement = $6k / year
-* HSA - like a long term investable FSA = $3.4k / year
-* 529 - college savings = $475k / lifetime in CA
-* 457 - teacher savings plan = $35k / year
-* Deductions, stock donations
+- 401k - retirement = $19k / year
+- IRA - retirement = $6k / year
+- HSA - like a long term investable FSA = $3.4k / year
+- 529 - college savings = $475k / lifetime in CA
+- 457 - teacher savings plan = $35k / year
+- Deductions, <u>stock donations</u>
 
 ---
 
@@ -489,7 +482,9 @@ Note: not for everyone, but with a little organization its relatively easy and p
 
 ## Will this Affect my Credit Score?
 
-Note: if you have good credit and are good at keeping it, this should not be bad for your FICO credit score
+&nbsp;
+
+Not if you play by the rules<!-- .element: class="fragment" -->
 
 ---
 
@@ -497,9 +492,9 @@ Note: if you have good credit and are good at keeping it, this should not be bad
 
 &nbsp;
 
-* Get a Chase credit card
-* Spend $2k in the first 3 months
-* Receive bonus of 50k travel points
+- Get a new credit card
+- Spend $3k in the first 3 months
+- Receive bonus of 60k travel points
 
 Every 3 months open a different card and repeat
 
@@ -507,15 +502,24 @@ Every 3 months open a different card and repeat
 
 ## Example plan
 
-* Chase Southwest Premier Business = 60k points
-* Chase Southwest Plus = 50k
-* Chase Sapphire Preferred = 50k
-* Chase Sapphire Reserve = 50k
-* Chase Ink Business Preferred = 80K
-* United MileagePlus Explorer = 50k
+- Chase Southwest Business = 80k points
+- Chase Southwest Personal = 75k
+- Chase Sapphire Preferred = 60k
+- Chase Ink Business = 100k
+- United Explorer = 60k
+- United MileagePlus = 50k
 
-2 years later you have ~300k points
-worth ~$4k in flights/hotels/car rentals
+2 years later you have 450k points
+
+worth $5000
+
+---
+
+## Return on investment
+
+You spend $350 in credit card fees and got $5000 in flights/hotels.
+
+Put $350 in the S&P 500 and in two years that will be $420
 
 Note: your mileage may vary, literally
 
@@ -524,6 +528,31 @@ Note: your mileage may vary, literally
 # ![](/images/churning_chart.png)
 
 Note: opening schedule chart
+
+---
+
+## Southwest companion pass
+
+Bring a companion on <u>every flight</u> for 1-2 years.
+
+This usually takes getting 2 southwest credit cards.
+
+---
+
+## Diminishing return
+
+(value vs effort graph goes here)
+
+basic chase cards
+business cards
+companion pass (peak)
+specific airline cards
+international travel
+manufactured spending
+category spending
+bank account churning
+retail cards
+referral bonuses
 
 ---
 
@@ -539,60 +568,23 @@ There is an active community with many schools of thought, debates, books, blogs
 
 &nbsp;
 
-* Raising or home schooling your children
-* Continuing to work (when/where/how you want)
-* Hobby development
-* Volunteerism
-* General happiness
+- Continuing to work (when/where/how you want)
+- Tax hacking
+- Side hustles
+- Hobby development
+- Volunteerism
+- Geographic arbitrage
 
----
-
-## Life Hacking
-
-&nbsp;
-
-* DIY home repairs
-* Side hustles
-* Staying healthy (exercise and diet)
-* Grocery budgeting
-* Geographic arbitrage
-
-Note: geographic arbitrage - moving/traveling/living in cheap places
-
----
-
-## Tax Hacking
-
-&nbsp;
-
-* HSA investing
-* Asset location
-* Mega backdoor Roth
-* Roth conversion ladder
-* Occupational arbitrage
-
-Note: occupational arbitrage - teacher example
+Note: geographic arbitrage - moving/traveling/living in inexpensive places
 
 ---
 
 ## Resources
 
-* [Simple Path to Wealth, JL Collins](http://www.thesimplepathtowealth.com) (Book)
+- [Simple Path to Wealth, JL Collins](http://www.thesimplepathtowealth.com) (Book)
 
-* [Mr. Money Mustache](https://www.mrmoneymustache.com) (Blog)
+- [Mr. Money Mustache](https://www.mrmoneymustache.com) (Blog)
 
-* [ChooseFI](https://www.choosefi.com/) (Podcast)
+- [r/churning](https://www.reddit.com/r/churning/) (Forum)
 
-* [r/FinancialIndependence](https://www.reddit.com/r/financialindependence/) (Forum)
-
-* [r/churning](https://www.reddit.com/r/churning/) (Forum)
-
-* [jonocodes.github.io/whyfi](http://jonocodes.github.io/whyfi) (This Talk)
-
----
-
-# TL;DR
-
-&nbsp;
-
-Put long term savings into a total stock market index fund<!-- .element: class="fragment" -->
+- [jonocodes.github.io/whyfi](http://jonocodes.github.io/whyfi) (This Talk)

@@ -1,6 +1,5 @@
 {
   "controls": true,
   "progress": false,
-  "transition": "zoom"
+  "transition": "slide"
 }
-
