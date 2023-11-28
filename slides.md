@@ -22,7 +22,7 @@ Note: Making enough money so you can move out of your parents house!
 
 ---
 
-# ![](/images/lawn_mower.jpg)
+# ![](images/lawn_mower.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ Yearly savings ($25 vs $60) = ~$400 / per line
 
 ---
 
-# ![](/images/mvnos.png)
+# ![](images/mvnos.png)
 
 ---
 
@@ -191,7 +191,7 @@ Note: you can buy a used car with that savings
 
 ## Buy a Gently Used Car
 
-# ![](/images/buying_car.jpg)
+# ![](images/buying_car.jpg)
 
 Yearly savings of buying a 3 year old car = ~$1,000
 
@@ -201,7 +201,7 @@ Note: Most new cars depreciate 40% to 50% during the first three years of owners
 
 ## Ride a Bicycle
 
-# ![](/images/sf_bike.jpg)
+# ![](images/sf_bike.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ Yearly savings by biking instead of driving = ~$8,000
 
 ---
 
-# ![](/images/budget_tracking.png)
+# ![](images/budget_tracking.png)
 
 ---
 
@@ -242,7 +242,7 @@ Put your savings to work
 
 ---
 
-# ![](/images/risk_reward.png)
+# ![](images/risk_reward.png)
 
 Note:
 Jono's crude view of investment risks vs rewards
@@ -262,7 +262,7 @@ Collectables / Crytocurrency = -%50 to %1000
 
 ## Risk Tolerance
 
-# ![](/images/stocks_vs_bonds.jpeg)
+# ![](images/stocks_vs_bonds.jpeg)
 
 Note: the stock market can be volatile. you can loose money one day and gain the next. if any losses keep you up at night the stock market is not for you.
 
@@ -308,7 +308,7 @@ If you want to exclude some no-so-nice companies:
 
 ---
 
-# ![](/images/vtsax.png)
+# ![](images/vtsax.png)
 
 ---
 
@@ -387,7 +387,7 @@ Invest for the long term
 
 ---
 
-# ![](/images/stock_top.png)
+# ![](images/stock_top.png)
 
 Note: Even with these disasters...
 
@@ -529,7 +529,7 @@ Note: your mileage may vary, literally
 
 ---
 
-# ![](/images/churning_chart.png)
+# ![](images/churning_chart.png)
 
 Note: opening schedule chart
 
@@ -545,7 +545,7 @@ This usually takes getting 2 southwest credit cards.
 
 ---
 
-# ![](/images/rewards_returns.png)
+# ![](images/rewards_returns.png)
 
 ---
 
