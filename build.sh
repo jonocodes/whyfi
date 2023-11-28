@@ -10,3 +10,5 @@ reveal-md slides.md --theme night -w --css custom.css --static ./static
 
 cd static
 sed -i '' 's/math.js/math-disabled.js/' *.html
+
+sed -i '' 's/RevealMath//' *.html

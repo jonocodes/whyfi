@@ -286,7 +286,7 @@ Keep 0 to 9 months of your living expenses in liquid cash (bank account) dependi
 
 ---
 
-- "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and <u>90%</u> in a very **low-cost** S&P 500 **index fund**. I believe the trust's long-term results from this policy will be superior to those attained by most investors who employ high-fee managers."
+- "My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and <u>**90%**</u> in a very low-cost S&P 500 <u>**index fund**</u>. I believe the trust's long-term results from this policy will be superior to those attained by most investors who employ high-fee managers."
 
 -- [Warren Buffett](http://www.berkshirehathaway.com/letters/2013ltr.pdf)
 
@@ -326,7 +326,7 @@ Put in an total stock market for 30 years:
 
 <p class="fragment">do nothing = $100k</p>
 
-<p class="fragment">add $500 per month = $855k</p>
+<p class="fragment">add $500/month = $855k</p>
 
 Note: mention bank gains loose money
 
@@ -461,9 +461,9 @@ Note: I personally am not into early retirement or travel, but I like to be effi
 
 &nbsp;
 
-- 401k - retirement = $19k / year
-- IRA - retirement = $6k / year
-- HSA - like a long term investable FSA = $3.4k / year
+- 401k - retirement = $22500 / year
+- IRA - retirement = $6500 / year
+- HSA - like a long term investable FSA = $3850 / year
 - 529 - college savings = $475k / lifetime in CA
 - 457 - teacher savings plan = $35k / year
 - Deductions, <u>stock donations</u>
@@ -517,7 +517,11 @@ worth $5000
 
 ## Return on investment
 
-You spend $350 in credit card fees and got $5000 in flights/hotels.
+&nbsp;
+
+Spend $350 in credit card fees and got $5000 in flights/hotels
+
+vs
 
 Put $350 in the S&P 500 and in two years that will be $420
 
@@ -533,26 +537,15 @@ Note: opening schedule chart
 
 ## Southwest companion pass
 
+&nbsp;
+
 Bring a companion on <u>every flight</u> for 1-2 years.
 
 This usually takes getting 2 southwest credit cards.
 
 ---
 
-## Diminishing return
-
-(value vs effort graph goes here)
-
-basic chase cards
-business cards
-companion pass (peak)
-specific airline cards
-international travel
-manufactured spending
-category spending
-bank account churning
-retail cards
-referral bonuses
+# ![](/images/rewards_returns.png)
 
 ---
 
